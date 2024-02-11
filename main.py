@@ -41,4 +41,4 @@ async def cute(ctx):
             picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTIwMTA2Nzg5ODA4OTc2Njk5Mg.Gm3zKn.d9McsEVzukpCdbyVHt2k57RCZHCMHgd11az_6E")
+bot.run("TOKEN")
